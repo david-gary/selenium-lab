@@ -47,3 +47,6 @@ In this lab, we will be using the application [Postman](https://www.postman.com/
 - Run the `raw_request.py` file to see the response, screenshot this, and save it for submission later in the lab.
 - Run the `selenium_starter.py` file to see the response, screenshot this, and save it for submission later in the lab.
   
+## Submission
+
+- On Canvas, submit the screenshots of your terminal after running the requirements installation command, the Postman response, the `raw_request.py` response, and the `selenium_starter.py` response.
